@@ -13,7 +13,7 @@
   
 Programming: Python  
 Database: SQL  
-Tools: Excel, Git, GitHub  
+Tools: Excel, Git, GitHub, VSCode, Jupyter notebook  
 Concepts: Data Analysis, Machine Learning (Basics), Data Science  
   
   
